@@ -1,0 +1,33 @@
+What does a compututer do ?
+Fundamentally a computer:
+-Performs calculations (计算）
+-Remember's the results （记录结果）
+What calculations?
+-Built in primitives  （构建原语）
+-Creating our own methods of calculating (学会如何创造自己的计算方法)
+Are simple calculations enought?
+Searching the World Wide Web
+Playing chess
+Good algorithm design
+also needed to
+accomplish a task!
+so are there limits?
+·Despite it's speed and storage, a computer does have limitations
+-Some problems still too complex
+ ·Accurate weather prediction at a local scale
+ ·Craking encryption schemes
+ -Some problems are fundamentally impossible to compute
+ ·Predicting whether a piece of code will always halt with an answer for any input
+Computational problem solving
+What is computation?
+-What is knowledge?
+-Declarative knowledge (陈述性知识)
+·Statements of fact （事实陈述）
+-Imperative knowledge （程序性知识=操作方法）
+·"how to" methods or recipes （操作方法）
+Declarative knowledge
+·“The square root of a number X is a number Y such that Y*Y=X”  (square root平方根)
+·Can you use this to find the square toot of a particular instance of X? (能用这个陈述去解平方根吗) A:NO
+Imperative knowledge 
+推导平方根的方法（描述）=》 如果要找出答案，首先要给出一个猜测
+Here is a "recipe" for deducing a square root of a number X ——attributed to Heron of Alexandria in the first in the first century AD（这个算法发明人有争议）
